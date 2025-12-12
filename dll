@@ -1,4 +1,4 @@
-@ECHO OFF
+@ECHO on
 color 0A
 echo [%date% %time%] DLL64.BAT > C:\TSS\dll64.txt
 set n=2
@@ -267,4 +267,5 @@ goto OPZIONI
 :END
 echo "Il file con il risultato dell'operazione e' stato salvato (C:\TSS\dll64.txt)"
 pause
+
 
