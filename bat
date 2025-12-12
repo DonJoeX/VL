@@ -1,3 +1,3 @@
 @ECHO OFF
-ECHO Hello World!
+ECHO sono un bat e faccio cose
 PAUSE
