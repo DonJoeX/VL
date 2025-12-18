@@ -1,3 +1,3 @@
-msinfoFix;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;msinfoFix.bat;#0078D4
-enableLink;Abilita la condivisione dei dischi o delle cartelle di rete;enableLinkedConnections.bat;#c9d400
-msinfoFix;"Impossibile trovare le informazioni Impossibile trovare le informazioni";msinfoFix.bat;#d400bf
+categoria;msinfoFix;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;msinfoFix.bat;#0078D4
+categoria;enableLink;Abilita la condivisione dei dischi o delle cartelle di rete;enableLinkedConnections.bat;#c9d400
+categoria;msinfoFix;"Impossibile trovare le informazioni Impossibile trovare le informazioni";msinfoFix.bat;#d400bf
