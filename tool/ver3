@@ -1,6 +1,6 @@
 INSTALLAZIONE;msinfoFix;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;msinfoFix.bat;#0078D4
 INSTALLAZIONE;enableLink;Abilita la condivisione dei dischi o delle cartelle di rete;enableLinkedConnections.bat;#c9d400
-SQL;msinfoFix;"Impossibile trovare le informazioni Impossibile trovare le informazioni";msinfoFix.bat;#d400bf
+LM;CLMC;"-2024";clmc.exe;#d400bf
 categoria;msinfoFix;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;msinfoFix.bat;#0078D4
 categoria;enableLink;Abilita la condivisione dei dischi o delle cartelle di rete;enableLinkedConnections.bat;#c9d400
 prova;msinfoFix;"Impossibile trovare le informazioni Impossibile trovare le informazioni";msinfoFix.bat;#d400bf
