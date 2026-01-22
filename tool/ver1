@@ -2,11 +2,12 @@ INSTALLAZIONE;msinfoFix;Corregge i problemi di Microsoft System Information che 
 INSTALLAZIONE;enableLink;Abilita la condivisione dei dischi o delle cartelle di rete;enableLinkedConnections.bat;#c9d400
 LICENZE;CLMC;CRC -2024 File di licenza non valido;clmc.exe;#d400bf
 TEST;test2;test;test;transparent
-Celeste;Celeste;Celeste;Celeste;#65C7F1
-Azzurro;Azzurro;Azzurro;Azzurro;#00AEEF
-Blu Medio;Blu Medio;Blu Medio;Blu Medio;#0071BC	
-Blu Scuro;Blu Scuro;Blu Scuro;Blu Scuro;#003E8A
-Magenta;Magenta;Magenta;Magenta;#E61E7C
-Bordeaux;Bordeaux;Bordeaux;Bordeaux;#D4145A
-Arancione;Arancione;Arancione;Arancione;#F26522
-Giallo Oro;Giallo Oro;Giallo Oro;Giallo Oro;#FFC20E
+Celeste;Celeste;Celeste;Celeste;SkyBlue
+Azzurro;Azzurro;Azzurro;Azzurro;DeepSkyBlue
+Blu Medio;Blu Medio;Blu Medio;Blu Medio;SteelBlue
+Blu Scuro;Blu Scuro;Blu Scuro;Blu Scuro;DarkBlue
+Magenta;Magenta;Magenta;Magenta;DeepPink
+Bordeaux;Bordeaux;Bordeaux;Bordeaux;Crimson
+Arancione;Arancione;Arancione;Arancione;Chocolate
+Arancione;Arancione;Arancione;Arancione;OrangeRed
+Giallo Oro;Giallo Oro;Giallo Oro;Giallo Oro;Gold
