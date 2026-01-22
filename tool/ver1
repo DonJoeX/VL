@@ -1,7 +1,8 @@
-CLMC;clmc.exe;CRC -2024 File di licenza non valido;LICENZE;Goldenrod
-registrazioneControlli;RegistrazioneControlliOLE.exe;consente di registrare i controlli OLE, come i controlli DLL e ActiveX, nel Registro di sistema di Windows;BILANCI;DeepPink
-enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;INSTALLAZIONE;DodgerBlue
-msinfoFix;msinfoFix.bat;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;INSTALLAZIONE;DodgerBlue
-Azzurro;Azzurro;dichiarativi;DICHIARATIVI;DeepSkyBlue
-Giallo Oro;Giallo Oro;contabilità;CONTABILITÀ;Chocolate
+CLMC;clmc.exe;CRC -2024 File di licenza non valido;VIALIBERA;DeepPink
+registrazioneControlli;RegistrazioneControlliOLE.exe;consente di registrare i controlli OLE, come i controlli DLL e ActiveX, nel Registro di sistema di Windows;VIALIBERA;DeepPink
+enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;UTILITY;DodgerBlue
+msinfoFix;msinfoFix.bat;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;UTILITY;DodgerBlue
+SQL;SQL;SQL;SQL;Goldenrod
+SUITE;SUITE;SUITE;SUITE;Chocolate
+PROVA;PROVA;PROVA;PROVA;DeepSkyBlue
 TEST;file.file;descrizione_test;CATEGORIA_TEST;transparent
