@@ -1,5 +1,5 @@
 CLMC;clmc.exe;CRC -2024 File di licenza non valido;LICENZE;DeepPink
-RegistrazioneControlliOLE;RegistrazioneControlliOLE.exe;consente di registrare i controlli OLE, come i controlli DLL e ActiveX, nel Registro di sistema di Windows;BILANCI;Chocolate
+registrazioneControlli;RegistrazioneControlliOLE.exe;consente di registrare i controlli OLE, come i controlli DLL e ActiveX, nel Registro di sistema di Windows;BILANCI;Chocolate
 enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;INSTALLAZIONE;DodgerBlue
 msinfoFix;msinfoFix.bat;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;INSTALLAZIONE;DodgerBlue
 Azzurro;Azzurro;Azzurro;DICHIARATIVI;DeepSkyBlue
