@@ -4,4 +4,4 @@ enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o dell
 msinfoFix;msinfoFix.bat;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;INSTALLAZIONE;DodgerBlue
 Azzurro;Azzurro;Azzurro;DICHIARATIVI;DeepSkyBlue
 Giallo Oro;Giallo Oro;Giallo Oro;CONTABILITÀ;Goldenrod
-TEST;test2;test;test;transparent
+TEST;file.file;descrizione_test;CATEGORIA_TEST;transparent
