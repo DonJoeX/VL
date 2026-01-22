@@ -1,7 +1,7 @@
-msinfoFix;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;msinfoFix.bat;INSTALLAZIONE;DodgerBlue
-enableLink;Abilita la condivisione dei dischi o delle cartelle di rete;enableLinkedConnections.bat;INSTALLAZIONE;DodgerBlue
-CLMC;CRC -2024 File di licenza non valido;clmc.exe;LICENZE;DeepPink
+CLMC;clmc.exe;CRC -2024 File di licenza non valido;LICENZE;DeepPink
+dll64;dll64.bat;Registrazione Librerie;BILANCI;Chocolate
+enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;INSTALLAZIONE;DodgerBlue
+msinfoFix;msinfoFix.bat;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;INSTALLAZIONE;DodgerBlue
+Azzurro;Azzurro;Azzurro;DICHIARATIVI;DeepSkyBlue
+Giallo Oro;Giallo Oro;Giallo Oro;CONTABILITÀ;Goldenrod
 TEST;test2;test;test;transparent
-Azzurro;Azzurro;Azzurro;Azzurro;DeepSkyBlue
-Arancione;Arancione;Arancione;Arancione;Chocolate
-Giallo Oro;Giallo Oro;Giallo Oro;Giallo Oro;Goldenrod
