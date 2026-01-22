@@ -1,4 +1,4 @@
 INSTALLAZIONE;msinfoFix;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;msinfoFix.bat;#0078D4
 INSTALLAZIONE;enableLink;Abilita la condivisione dei dischi o delle cartelle di rete;enableLinkedConnections.bat;#c9d400
 LICENZE;CLMC;CRC -2024 File di licenza non valido;clmc.exe;#d400bf
-TEST;test1;test;test;transparent
+TEST;test2;test;test;transparent
