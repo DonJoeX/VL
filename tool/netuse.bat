@@ -8,10 +8,10 @@ echo ================================================
 echo.
 
 :: Richiesta del nome del server
-set /p server="Inserisci il nome del server (es. ServerDati): "
+set /p server="Inserisci il nome o l'indirizzo IP del server (es. ServerDati): "
 
 :: Richiesta della lettera dell'unita
-set /p lettera="Inserisci la lettera dell'unita desiderata (es. Z): "
+set /p lettera="Inserisci la lettera dell'unita desiderata (es. T): "
 
 echo.
 echo Tentativo di mappatura di \\%server%\TSSShare su %lettera%:...
