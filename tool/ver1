@@ -1,8 +1,8 @@
 CLMC;clmc.exe;CRC -2024 File di licenza non valido;VIALIBERA;DeepPink
-registrazioneControlli;RegistrazioneControlliOLE.exe;consente di registrare i controlli OLE, come i controlli DLL e ActiveX, nel Registro di sistema di Windows;VIALIBERA;DeepPink
 enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;UTILITY;DodgerBlue
 msinfoFix;msinfoFix.bat;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;UTILITY;DodgerBlue
+Net Use;netuse.bat;Mappatura Unita di Rete TSSShare;VIALIBERA;DodgerBlue
+registrazioneControlli;RegistrazioneControlliOLE.exe;consente di registrare i controlli OLE, come i controlli DLL e ActiveX, nel Registro di sistema di Windows;VIALIBERA;DeepPink
 SQL per Suite/Cloud;SUITE;SQL per Suite/Cloud;SUITE;Chocolate
 SQL per ViaLibera;SQL;SQL per ViaLibera;SQL;Goldenrod
-Net Use;netuse.bat;Mappatura Unita di Rete TSSShare;VIALIBERA;DodgerBlue
 x_test;x.file;solo_test_interno;TEST INTERNO;DeepSkyBlue
