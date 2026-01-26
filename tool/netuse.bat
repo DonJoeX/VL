@@ -1,4 +1,5 @@
 @echo off
+color 0A
 title Mappatura e Test Unita TSSShare
 cls
 
