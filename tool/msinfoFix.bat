@@ -1,5 +1,6 @@
 @echo on
 color 30
+title msinfoFix
 cd /d c:\temp
 if not exist %windir%\system32\wbem goto TryInstall
 cd /d %windir%\system32\wbem
