@@ -4,5 +4,5 @@ enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o dell
 msinfoFix;msinfoFix.bat;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;UTILITY;DodgerBlue
 SQL per Suite/Cloud;SUITE;SQL per Suite/Cloud;SUITE;Chocolate
 SQL per ViaLibera;SQL;SQL per ViaLibera;SQL;Goldenrod
-;PROVA;PROVA;PROVA;DeepSkyBlue
-x_test;x.file;solo_test_interno;TEST INTERNO;transparent
+Net Use;netuse.bat;Mappatura Unita di Rete TSSShare;VIALIBERA;DodgerBlue
+x_test;x.file;solo_test_interno;TEST INTERNO;DeepSkyBlue
