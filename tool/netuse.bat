@@ -1,5 +1,5 @@
 @echo off
-title Mappatura Unita di Rete TSSShare
+title Mappatura e Test Unita TSSShare
 cls
 
 echo ================================================
@@ -19,6 +19,22 @@ echo Tentativo di mappatura di \\%server%\TSSShare su %lettera%:...
 :: Comando per mappare l'unita
 net use %lettera%: "\\%server%\TSSShare" /persistent:yes
 
-echo.
-echo Operazione completata.
+:: Controllo se il comando precedente ha avuto successo
+if %errorlevel% EQU 0 (
+    echo.
+    echo [OK] Mappatura riuscita!
+    echo Avvio del test dell'unita %lettera%:...
+    echo.
+    
+    :: Esegue il test: entra nell'unita e mostra i file
+    %lettera%:
+    dir
+    
+    echo.
+    echo Test completato. Sopra puoi vedere i file presenti in \\%server%\TSSShare.
+) else (
+    echo.
+    echo [ERRORE] Impossibile mappare l'unita. Verifica il nome del server o la lettera.
+)
+
 pause
