@@ -1,4 +1,5 @@
 CLMC;clmc.exe;CRC -2024 File di licenza non valido;VIALIBERA;DeepPink
+Esegui;EdgeCopier.exe;Sostituisce la versione di Microsoft Edge WebView2 (WV2) con quella installata sul sistema operativo;VIALIBERA;DeepPink
 enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;UTILITY;DodgerBlue
 msinfoFix;msinfoFix.bat;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;UTILITY;DodgerBlue
 netUse;netuse.bat;Mappatura Unita di Rete TSSShare;VIALIBERA;DeepPink
