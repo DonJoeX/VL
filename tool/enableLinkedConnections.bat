@@ -16,7 +16,6 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\S
 
 if %errorLevel% == 0 (
     echo Operazione completata con successo.
-    echo Nota: E' necessario riavviare il computer per applicare le modifiche.
 ) else (
     echo Si e verificato un errore durante l'aggiunta della chiave.
 )
