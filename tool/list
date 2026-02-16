@@ -1,7 +1,7 @@
 CLMC;clmc.exe;Risolve l'errore "CRC -2024 File di licenza non valido";VIALIBERA;DeepPink
 copia WV2;EdgeCopier.exe;Sostituisce la versione di Microsoft Edge WebView2 (WV2) con quella installata sul sistema operativo;VIALIBERA;DeepPink
 enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;UTILITY;DodgerBlue
-msinfoFix;msinfoFix.bat;TEST Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;UTILITY;DodgerBlue
+msinfoFix;MsinfoFixApp.exe;TEST Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;UTILITY;DodgerBlue
 netUse;netuse.bat;Mappatura Unita di Rete TSSShare;VIALIBERA;DeepPink
 registrazioneControlli;RegistrazioneControlliOLE.exe;Consente di registrare i controlli OLE, come i controlli ActiveX e le librerie DLL, nel Registro di sistema di Windows;VIALIBERA;DeepPink
 SQL per Suite/Cloud;SuiteSQL.exe;Raccolta di script SQL per VL Suite/Cloud;VL SUITE/CLOUD;Chocolate
