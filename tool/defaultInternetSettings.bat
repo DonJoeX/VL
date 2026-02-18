@@ -15,7 +15,7 @@ echo Internet Settings...
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3" /v 1001 /t REG_DWORD /d 10000 /f
 
 if %errorLevel% == 0 (
-    echo
+    
 ) else (
     echo Si e verificato un errore.
 )
