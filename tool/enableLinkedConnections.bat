@@ -15,7 +15,7 @@ echo Aggiunta chiave di registro EnableLinkedConnections...
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v "EnableLinkedConnections" /t REG_DWORD /d "1" /f
 
 if %errorLevel% == 0 (
-    echo
+    
 ) else (
     echo Si e verificato un errore durante l'aggiunta della chiave.
 )
