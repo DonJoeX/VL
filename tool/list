@@ -8,3 +8,5 @@ SQL per Suite/Cloud;SuiteSQL.exe;Raccolta di script SQL per VL Suite/Cloud;VL SU
 SQL per ViaLibera;SQL;TEST SQL per ViaLibera;SQL;Goldenrod
 x_test;x.file;TEST;TEST INTERNO;DeepSkyBlue
 fixRTerror48;fixRTerror48.exe;Corregge l'errore "Run-time error 48" per ViaLibera Bilancio Europeo 25/26;VIALIBERA;DeepPink
+defaultInternetSettings.bat
+Abilita Script per IE;defaultInternetSettings.bat;Abilita la visualizzazione e L'esecuzione degli elementi del crucotto d'installazione quando non è possibile interagire con loro;UTILITY;DodgerBlue
