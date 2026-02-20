@@ -1,4 +1,4 @@
 [
-  { "Path": "SOFTWARE\\WOW6432Node\\Il Sole 24 Ore\\Bilancio Europeo 2023\\Setup", "ValueName": "Add4" },
-  { "Path": "SOFTWARE\\WOW6432Node\\IlSole24Ore\\LMC\\Parameters", "ValueName": "PathApp" }
+  { "Path": "SOFTWARE\\Il Sole 24 Ore\\Bilancio Europeo 2023\\Setup", "ValueName": "Add4" },
+  { "Path": "SOFTWARE\\IlSole24Ore\\LMC\\Parameters", "ValueName": "PathApp" }
 ]
