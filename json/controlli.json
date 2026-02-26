@@ -1,1 +1,5 @@
-controlli
+[
+  { "File": "comdlg32.ocx" },
+  { "File": "msflxgrd.ocx" },
+  { "File": "mio_componente.dll" }
+]
