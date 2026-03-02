@@ -1,4 +1,4 @@
-System Manager;OSInfoApp.exe;Controlli primari su servizi e registro di sitema;VIALIBERA;Goldenrod
+System Manager;OSInfoApp.exe;Screening iniziale;VIALIBERA;Goldenrod
 CLMC;clmc.exe;Risolve l'errore "CRC -2024 File di licenza non valido";VIALIBERA;DeepPink
 VLSPOOLER50;VLSPOOLER50.BAT;VL Spooler 50;VIALIBERA;DeepPink
 copia WV2;EdgeCopier.exe;Sostituisce la versione di Microsoft Edge WebView2 (WV2) con quella installata sul sistema operativo;VIALIBERA;DeepPink
