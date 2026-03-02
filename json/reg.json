@@ -35,11 +35,6 @@
 {"Path": "Il Sole 24 Ore\\Spese Sanitarie 2025\\Settings","ValueName": "InstType"},
 {"Path": "Il Sole 24 Ore\\Spese Sanitarie 2026\\Settings","ValueName": "InstType"},
 
-{"Path": "Modulo Dati Fattura 2019\\Settings","ValueName": "InstType"},
-{"Path": "Modulo Dati Fattura 2020\\Settings","ValueName": "InstType"},
-{"Path": "Modulo Dati Fattura 2021\\Settings","ValueName": "InstType"},
-{"Path": "Modulo Dati Fattura 2022\\Settings","ValueName": "InstType"},
-
 {"Path": "VLFW2018","ValueName": "Tipo"},
 {"Path": "VLFW2018\\770O18","ValueName": "Versione"},
 {"Path": "VLFW2018\\CER18","ValueName": "Versione"},
@@ -224,11 +219,6 @@
 {"Path": "Il Sole 24 Ore\\Modulo Spese Sanitarie S24 2024\\Settings","ValueName": "InstType"},
 {"Path": "Il Sole 24 Ore\\Modulo Spese Sanitarie S24 2025\\Settings","ValueName": "InstType"},
 {"Path": "Il Sole 24 Ore\\Modulo Spese Sanitarie S24 2026\\Settings","ValueName": "InstType"},
-
-{"Path": "Modulo Dati Fattura S24 2019\\Settings","ValueName": "InstType"},
-{"Path": "Modulo Dati Fattura S24 2020\\Settings","ValueName": "InstType"},
-{"Path": "Modulo Dati Fattura S24 2021\\Settings","ValueName": "InstType"},
-{"Path": "Modulo Dati Fattura S24 2022\\Settings","ValueName": "InstType"},
 
 {"Path": "S24FW2018","ValueName": "Tipo"},
 {"Path": "S24FW2018\\770O18","ValueName": "Versione"},
