@@ -35,7 +35,7 @@
 {"Path": "Il Sole 24 Ore\\Spese Sanitarie 2025\\Settings","ValueName": "InstType"},
 {"Path": "Il Sole 24 Ore\\Spese Sanitarie 2026\\Settings","ValueName": "InstType"},
 
-{"Path": "VLFW2018","ValueName": "Tipo"},
+{"Path": "VLFW2018","ValueName": "SERVER_LOCALE"},
 {"Path": "VLFW2018\\770O18","ValueName": "Versione"},
 {"Path": "VLFW2018\\CER18","ValueName": "Versione"},
 {"Path": "VLFW2018\\CNM18","ValueName": "Versione"},
@@ -49,7 +49,7 @@
 {"Path": "VLFW2018\\USP18","ValueName": "Versione"},
 {"Path": "VLFW2018\\UPF18","ValueName": "Versione"},
 
-{"Path": "VLFW2019","ValueName": "Tipo"},
+{"Path": "VLFW2019","ValueName": "SERVER_LOCALE"},
 {"Path": "VLFW2019\\770O19","ValueName": "Versione"},
 {"Path": "VLFW2019\\CER19","ValueName": "Versione"},
 {"Path": "VLFW2019\\CNM19","ValueName": "Versione"},
@@ -63,7 +63,7 @@
 {"Path": "VLFW2019\\USP19","ValueName": "Versione"},
 {"Path": "VLFW2019\\73019","ValueName": "Versione"},
 
-{"Path": "VLFW2020","ValueName": "Tipo"},
+{"Path": "VLFW2020","ValueName": "SERVER_LOCALE"},
 {"Path": "VLFW2020\\770O20","ValueName": "Versione"},
 {"Path": "VLFW2020\\CER20","ValueName": "Versione"},
 {"Path": "VLFW2020\\CNM20","ValueName": "Versione"},
@@ -77,7 +77,7 @@
 {"Path": "VLFW2020\\USP20","ValueName": "Versione"},
 {"Path": "VLFW2020\\73020","ValueName": "Versione"},
 
-{"Path": "VLFW2021","ValueName": "Tipo"},
+{"Path": "VLFW2021","ValueName": "SERVER_LOCALE"},
 {"Path": "VLFW2021\\770O21","ValueName": "Versione"},
 {"Path": "VLFW2021\\CER21","ValueName": "Versione"},
 {"Path": "VLFW2021\\CNM21","ValueName": "Versione"},
@@ -91,7 +91,7 @@
 {"Path": "VLFW2021\\USP21","ValueName": "Versione"},
 {"Path": "VLFW2021\\73021","ValueName": "Versione"},
 
-{"Path": "VLFW2022","ValueName": "Tipo"},
+{"Path": "VLFW2022","ValueName": "SERVER_LOCALE"},
 {"Path": "VLFW2022\\770O22","ValueName": "Versione"},
 {"Path": "VLFW2022\\CER22","ValueName": "Versione"},
 {"Path": "VLFW2022\\CNM22","ValueName": "Versione"},
@@ -105,7 +105,7 @@
 {"Path": "VLFW2022\\USP22","ValueName": "Versione"},
 {"Path": "VLFW2022\\73022","ValueName": "Versione"},
 
-{"Path": "VLFW2023","ValueName": "Tipo"},
+{"Path": "VLFW2023","ValueName": "SERVER_LOCALE"},
 {"Path": "VLFW2023\\770O23","ValueName": "Versione"},
 {"Path": "VLFW2023\\CER23","ValueName": "Versione"},
 {"Path": "VLFW2023\\CNM23","ValueName": "Versione"},
@@ -122,7 +122,7 @@
 {"Path": "VLFW2023\\TAB23","ValueName": "Versione"},
 {"Path": "VLFW2023\\RDD23","ValueName": "Versione"},
 
-{"Path": "VLFW2024","ValueName": "Tipo"},
+{"Path": "VLFW2024","ValueName": "SERVER_LOCALE"},
 {"Path": "VLFW2024\\770O24","ValueName": "Versione"},
 {"Path": "VLFW2024\\CER24","ValueName": "Versione"},
 {"Path": "VLFW2024\\CNM24","ValueName": "Versione"},
@@ -139,7 +139,7 @@
 {"Path": "VLFW2024\\TAB24","ValueName": "Versione"},
 {"Path": "VLFW2024\\RDD24","ValueName": "Versione"},
 
-{"Path": "VLFW2025","ValueName": "Tipo"},
+{"Path": "VLFW2025","ValueName": "SERVER_LOCALE"},
 {"Path": "VLFW2025\\770O25","ValueName": "Versione"},
 {"Path": "VLFW2025\\CER25","ValueName": "Versione"},
 {"Path": "VLFW2025\\CNM25","ValueName": "Versione"},
@@ -155,7 +155,7 @@
 {"Path": "VLFW2025\\MSOG25","ValueName": "Versione"},
 {"Path": "VLFW2025\\TAB25","ValueName": "Versione"},
 
-{"Path": "VLFW2026","ValueName": "Tipo"},
+{"Path": "VLFW2026","ValueName": "SERVER_LOCALE"},
 {"Path": "VLFW2026\\770O26","ValueName": "Versione"},
 {"Path": "VLFW2026\\CER26","ValueName": "Versione"},
 {"Path": "VLFW2026\\CNM26","ValueName": "Versione"},
@@ -220,7 +220,7 @@
 {"Path": "Il Sole 24 Ore\\Modulo Spese Sanitarie S24 2025\\Settings","ValueName": "InstType"},
 {"Path": "Il Sole 24 Ore\\Modulo Spese Sanitarie S24 2026\\Settings","ValueName": "InstType"},
 
-{"Path": "S24FW2018","ValueName": "Tipo"},
+{"Path": "S24FW2018","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2018\\770O18","ValueName": "Versione"},
 {"Path": "S24FW2018\\CER18","ValueName": "Versione"},
 {"Path": "S24FW2018\\CNM18","ValueName": "Versione"},
@@ -234,7 +234,7 @@
 {"Path": "S24FW2018\\USP18","ValueName": "Versione"},
 {"Path": "S24FW2018\\UPF18","ValueName": "Versione"},
 
-{"Path": "S24FW2019","ValueName": "Tipo"},
+{"Path": "S24FW2019","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2019\\770O19","ValueName": "Versione"},
 {"Path": "S24FW2019\\CER19","ValueName": "Versione"},
 {"Path": "S24FW2019\\CNM19","ValueName": "Versione"},
@@ -248,7 +248,7 @@
 {"Path": "S24FW2019\\USP19","ValueName": "Versione"},
 {"Path": "S24FW2019\\73019","ValueName": "Versione"},
 
-{"Path": "S24FW2020","ValueName": "Tipo"},
+{"Path": "S24FW2020","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2020\\770O20","ValueName": "Versione"},
 {"Path": "S24FW2020\\CER20","ValueName": "Versione"},
 {"Path": "S24FW2020\\CNM20","ValueName": "Versione"},
@@ -262,7 +262,7 @@
 {"Path": "S24FW2020\\USP20","ValueName": "Versione"},
 {"Path": "S24FW2020\\73020","ValueName": "Versione"},
 
-{"Path": "S24FW2021","ValueName": "Tipo"},
+{"Path": "S24FW2021","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2021\\770O21","ValueName": "Versione"},
 {"Path": "S24FW2021\\CER21","ValueName": "Versione"},
 {"Path": "S24FW2021\\CNM21","ValueName": "Versione"},
@@ -276,7 +276,7 @@
 {"Path": "S24FW2021\\USP21","ValueName": "Versione"},
 {"Path": "S24FW2021\\73021","ValueName": "Versione"},
 
-{"Path": "S24FW2022","ValueName": "Tipo"},
+{"Path": "S24FW2022","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2022\\770O22","ValueName": "Versione"},
 {"Path": "S24FW2022\\CER22","ValueName": "Versione"},
 {"Path": "S24FW2022\\CNM22","ValueName": "Versione"},
@@ -290,7 +290,7 @@
 {"Path": "S24FW2022\\USP22","ValueName": "Versione"},
 {"Path": "S24FW2022\\73022","ValueName": "Versione"},
 
-{"Path": "S24FW2023","ValueName": "Tipo"},
+{"Path": "S24FW2023","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2023\\770O23","ValueName": "Versione"},
 {"Path": "S24FW2023\\CER23","ValueName": "Versione"},
 {"Path": "S24FW2023\\CNM23","ValueName": "Versione"},
@@ -307,7 +307,7 @@
 {"Path": "S24FW2023\\TAB23","ValueName": "Versione"},
 {"Path": "S24FW2023\\RDD23","ValueName": "Versione"},
 
-{"Path": "S24FW2024","ValueName": "Tipo"},
+{"Path": "S24FW2024","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2024\\770O24","ValueName": "Versione"},
 {"Path": "S24FW2024\\CER24","ValueName": "Versione"},
 {"Path": "S24FW2024\\CNM24","ValueName": "Versione"},
@@ -324,7 +324,7 @@
 {"Path": "S24FW2024\\TAB24","ValueName": "Versione"},
 {"Path": "S24FW2024\\RDD24","ValueName": "Versione"},
 
-{"Path": "S24FW2025","ValueName": "Tipo"},
+{"Path": "S24FW2025","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2025\\770O25","ValueName": "Versione"},
 {"Path": "S24FW2025\\CER25","ValueName": "Versione"},
 {"Path": "S24FW2025\\CNM25","ValueName": "Versione"},
@@ -340,7 +340,7 @@
 {"Path": "S24FW2025\\MSOG25","ValueName": "Versione"},
 {"Path": "S24FW2025\\TAB25","ValueName": "Versione"},
 
-{"Path": "S24FW2026","ValueName": "Tipo"},
+{"Path": "S24FW2026","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2026\\770O26","ValueName": "Versione"},
 {"Path": "S24FW2026\\CER26","ValueName": "Versione"},
 {"Path": "S24FW2026\\CNM26","ValueName": "Versione"},
