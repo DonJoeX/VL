@@ -9,7 +9,7 @@ msinfoFix;MsinfoFixApp.exe;Corregge i problemi di Microsoft System Information c
 netUse;netuse.bat;Mappatura Unita di Rete TSSShare;VIALIBERA;DeepPink
 registrazioneControlli;RegistrazioneControlliOLE.exe;Consente di registrare i controlli OLE, come i controlli ActiveX e le librerie DLL, nel Registro di sistema di Windows;VIALIBERA;DeepPink
 SQL per Suite/Cloud;SuiteSQL.exe;Raccolta di script SQL per VL Suite/Cloud;VL SUITE/CLOUD;Chocolate
-x_test;x.file;TEST;TEST INTERNO;DeepSkyBlue
+x_test;x.file;TEST;🛠️ 🧪TEST INTERNO;DeepSkyBlue
 fixRTerror48;fixRTerror48.exe;Corregge l'errore "Run-time error 48" per ViaLibera Bilancio Europeo 25/26;VIALIBERA;DeepPink
 defaultInternetSettings.bat
-Abilita Script per IE;defaultInternetSettings.bat;Abilita la visualizzazione e L'esecuzione degli elementi del cruscotto d'installazione quando non è possibile interagire con loro;UTILITY;DodgerBlue
+Abilita Script per IE;defaultInternetSettings.bat;⚠️ Abilita la visualizzazione e L'esecuzione degli elementi del cruscotto d'installazione quando non è possibile interagire con loro;UTILITY;DodgerBlue
