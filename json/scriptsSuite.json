@@ -1,8 +1,9 @@
 {
   "Visualizza installazioni pendenti": "SELECT * FROM [studio24].[dbo].[InstallationLog] WHERE idstato = 1 AND (esito = '1' OR esito = '-1')",
-  "Aggiorna le installazioni pendenti": "UPDATE [studio24].[dbo].[InstallationLog] SET idstato = 2 WHERE idstato = 1 AND (esito = '1' OR esito = '-1')",
+  "Elimina installazioni pendenti quando pianificate per errore": "DELETE FROM [studio24].[dbo].[InstallationLog] WHERE idstato = 1 AND (esito = '1' OR esito = '-1')",
+  "Aggiorna installazioni pendenti quando risultano già installate": "UPDATE [studio24].[dbo].[InstallationLog] SET idstato = 2 WHERE idstato = 1 AND (esito = '1' OR esito = '-1')",
   "Scavalca": "insert into DbNet.dbo.AssistenzaRemota select 'LYCL','LYCL','Studio24asp','u/HSmJlcxAT/zfLZXfhPcg==','Si',getdate();",
-  "Verifica Appuntamenti": "SELECT * FROM [studio24].[dbo].[AppuntamentiUtenti];",
-  "Elimina attività sospese": "DELETE FROM [studio24].[dbo].[AppuntamentiUtenti]; UPDATE [studio24].[dbo].[ModuliSoggetti] SET IDRilevamentoAttivita = NULL WHERE IDRilevamentoAttivita IS NOT NULL;",
-  "Elimina pratiche aperte": "DELETE FROM [deg2020].[COMMON].[PraticheAperte]; DELETE FROM [deg2021].[COMMON].[PraticheAperte]; DELETE FROM [deg2022].[COMMON].[PraticheAperte]; DELETE FROM [deg2023].[COMMON].[PraticheAperte]; DELETE FROM [deg2024].[COMMON].[PraticheAperte]; DELETE FROM [deg2025].[COMMON].[PraticheAperte];"
+  "Visualizza Appuntamenti di Studio": "SELECT * FROM [studio24].[dbo].[AppuntamentiUtenti];",
+  "Elimina attività sospese di Studio": "DELETE FROM [studio24].[dbo].[AppuntamentiUtenti]; UPDATE [studio24].[dbo].[ModuliSoggetti] SET IDRilevamentoAttivita = NULL WHERE IDRilevamentoAttivita IS NOT NULL;",
+  "Elimina pratiche aperte in Deleghe": "DELETE FROM [deg2020].[COMMON].[PraticheAperte]; DELETE FROM [deg2021].[COMMON].[PraticheAperte]; DELETE FROM [deg2022].[COMMON].[PraticheAperte]; DELETE FROM [deg2023].[COMMON].[PraticheAperte]; DELETE FROM [deg2024].[COMMON].[PraticheAperte]; DELETE FROM [deg2025].[COMMON].[PraticheAperte];"
 }
