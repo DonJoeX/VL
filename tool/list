@@ -1,6 +1,6 @@
 System Manager;OSInfoApp.exe;🚀 AGGIORNATO: screening iniziale e log;VIALIBERA;Goldenrod;Admin
-CLMC2;CheckID.exe;✨ NOVITÀ: risolve gli errori di licenza -2007, -2017, -2024, -2025, -2026;VIALIBERA;DeepPink;Admin
-CLMC;clmc.exe;Risolve l'errore "CRC -2024 File di licenza non valido";VIALIBERA;DeepPink;Guest
+CLMC2;CheckID.exe;✨ NOVITÀ: risolve gli errori di licenza -2007, -2017, -2024, -2025, -2026;VIALIBERA;DeepPink;Guest
+CLMC;clmc.exe;Risolve l'errore "CRC -2024 File di licenza non valido";VIALIBERA;DeepPink;Base
 ControlloLicenze;ControlloLicenze.exe;🚀 AGGIORNATO: Risolve l'errore "Operazione fallita XML_REGISTER LICENSE: -1003";VIALIBERA;DeepPink;Admin
 Registra DT;DT.BAT;Corregge il percorso di DesktopTelematico nel registro di Windows;UTILITY;DodgerBlue;Admin
 SQL per Suite/Cloud;SuiteSQL.exe;Raccolta di script SQL per VL Suite/Cloud;VL SUITE/CLOUD;Chocolate;Admin
