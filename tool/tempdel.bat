@@ -1,4 +1,5 @@
 @ECHO ON
+color 30
 powershell -command "Get-ChildItem 'C:\Windows\SystemTemp' -Recurse | Remove-Item -Force -Recurse -ErrorAction SilentlyContinue"
 powershell -command "Get-ChildItem 'C:\Windows\Temp' -Recurse | Remove-Item -Force -Recurse -ErrorAction SilentlyContinue"
 powershell -command "Get-ChildItem 'C:\Users\*\AppData\Local\CrashDumps' -Recurse | Remove-Item -Force"
