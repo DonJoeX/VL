@@ -1,4 +1,4 @@
-@echo on
+@ECHO OFF
 color 30
 REM powershell -Command "Set-DisplayResolution -Width 1366 -Height 768 -Force"
 setres -w 1366 -h 768 -f
