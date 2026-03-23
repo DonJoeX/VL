@@ -247,7 +247,6 @@
 {"Path": "S24FW2018\\UPF18","ValueName": "Versione"},
 {"Path": "S24FW2018\\UPF18","ValueName": "Directory"},
 
-
 {"Path": "S24FW2019","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2019","ValueName": "Tipo"},
 {"Path": "S24FW2019\\770O19","ValueName": "Versione"},
@@ -274,7 +273,6 @@
 {"Path": "S24FW2019\\USP19","ValueName": "Directory"},
 {"Path": "S24FW2019\\73019","ValueName": "Versione"},
 {"Path": "S24FW2019\\73019","ValueName": "Directory"},
-
 
 {"Path": "S24FW2020","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2020","ValueName": "Tipo"},
@@ -303,7 +301,6 @@
 {"Path": "S24FW2020\\73020","ValueName": "Versione"},
 {"Path": "S24FW2020\\73020","ValueName": "Directory"},
 
-
 {"Path": "S24FW2021","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2021","ValueName": "Tipo"},
 {"Path": "S24FW2021\\770O21","ValueName": "Versione"},
@@ -331,7 +328,6 @@
 {"Path": "S24FW2021\\73021","ValueName": "Versione"},
 {"Path": "S24FW2021\\73021","ValueName": "Directory"},
 
-
 {"Path": "S24FW2022","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2022","ValueName": "Tipo"},
 {"Path": "S24FW2022\\770O22","ValueName": "Versione"},
@@ -358,7 +354,6 @@
 {"Path": "S24FW2022\\USP22","ValueName": "Directory"},
 {"Path": "S24FW2022\\73022","ValueName": "Versione"},
 {"Path": "S24FW2022\\73022","ValueName": "Directory"},
-
 
 {"Path": "S24FW2023","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2023","ValueName": "Tipo"},
@@ -393,7 +388,6 @@
 {"Path": "S24FW2023\\RDD23","ValueName": "Versione"},
 {"Path": "S24FW2023\\RDD23","ValueName": "Directory"},
 
-
 {"Path": "S24FW2024","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2024","ValueName": "Tipo"},
 {"Path": "S24FW2024\\770O24","ValueName": "Versione"},
@@ -427,7 +421,6 @@
 {"Path": "S24FW2024\\RDD24","ValueName": "Versione"},
 {"Path": "S24FW2024\\RDD24","ValueName": "Directory"},
 
-
 {"Path": "S24FW2025","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2025","ValueName": "Tipo"},
 {"Path": "S24FW2025\\770O25","ValueName": "Versione"},
@@ -458,7 +451,6 @@
 {"Path": "S24FW2025\\MSOG25","ValueName": "Directory"},
 {"Path": "S24FW2025\\TAB25","ValueName": "Versione"},
 {"Path": "S24FW2025\\TAB25","ValueName": "Directory"},
-
 
 {"Path": "S24FW2026","ValueName": "SERVER_LOCALE"},
 {"Path": "S24FW2026","ValueName": "Tipo"},
@@ -492,5 +484,4 @@
 {"Path": "S24FW2026\\TAB26","ValueName": "Directory"},
 {"Path": "S24FW2026\\MDEU26","ValueName": "Versione"},
 {"Path": "S24FW2026\\MDEU26","ValueName": "Directory"}
-
 ]
