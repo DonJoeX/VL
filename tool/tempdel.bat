@@ -23,4 +23,3 @@ del C:\TSVL\Studio24Installazione\Studio24\DB\Base\Components\SQLEXPR_x64_ENU.ex
 del C:\TSVL\Studio24Installazione\Studio24\DB\Base\Components\SQLEXPR_x64_ITA.exe /q
 del C:\TSVL\Studio24Installazione\Studio24\DB\Base\Components\SSMS-Setup-ENU.exe /q
 del C:\TSVL\Studio24Installazione\Studio24\DB\Base\Components\SSMS-Setup-ITA.exe /q
-pause
