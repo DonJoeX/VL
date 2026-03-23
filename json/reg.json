@@ -308,7 +308,7 @@
 {"Path": "S24FW2025\\73025","ValueName": ["Versione"]},
 {"Path": "S24FW2025\\MSOG25","ValueName": ["Versione"]},
 {"Path": "S24FW2025\\TAB25","ValueName": ["Versione"]},
-{"Path": "S24FW2026","ValueName": ["SERVER_LOCALE"]},
+{"Path": "S24FW2026","ValueName": ["SERVER_LOCALE", "Tipo"]},
 {"Path": "S24FW2026\\770O26","ValueName": ["Versione"]},
 {"Path": "S24FW2026\\CER26","ValueName": ["Versione"]},
 {"Path": "S24FW2026\\CNM26","ValueName": ["Versione"]},
