@@ -3,7 +3,7 @@ CLMC2;CheckID.exe;✨ NOVITÀ: risolve gli errori di licenza -2007, -2024, -2025
 CLMC;clmc.exe;Risolve l'errore "CRC -2024 File di licenza non valido";VIALIBERA;DeepPink;Base
 ControlloLicenze;ControlloLicenze.exe;🚀 AGGIORNATO: Risolve l'errore "Operazione fallita XML_REGISTER LICENSE: -1003";VIALIBERA;DeepPink;Tech
 Pulizia Cloud;tempdel.bat;Cancella i file temporanei di Lybera Cloud;VL SUITE/CLOUD;Chocolate;Tech
-Cambia Risoluzione;1366x768.bat;Imposta la risoluzione dello schermo su 1366 x 768 pixel;UTILITY;DodgerBlue;Tech
+Cambia Risoluzione;1366x768.bat;Imposta la risoluzione dello schermo del Cloud (per Bomgar) su 1366 x 768 pixel;VL SUITE/CLOUD;Chocolate;Tech
 Registra DT;DT.BAT;Corregge il percorso di DesktopTelematico nel registro di Windows;UTILITY;DodgerBlue;Tech
 FWdsn;FWdsn.exe;Cambia il nome del SERVER e la versione di SQL Server Native Client all'interno dei file ".dsn" di FiscoWin;VIALIBERA;DeepPink;Tech
 SQL per Suite/Cloud;SuiteSQL.exe;Raccolta di script SQL per VL Suite/Cloud;VL SUITE/CLOUD;Chocolate;Tech
