@@ -1,6 +1,6 @@
-System Manager;OSInfoApp.exe;🚀 AGGIORNATO: screening iniziale e log;VIALIBERA;Goldenrod;Base
+System Manager;OSInfoApp.exe;🚀 AGGIORNATO: screening iniziale e log;VIALIBERA;Goldenrod;Guest
 CLMC2;CheckID.exe;✨ NOVITÀ: risolve gli errori di licenza -2007, -2024, -2025, -2026, lettura/scrittura memoria protetta lmc.dll;VIALIBERA;DeepPink;Guest
-CLMC;clmc.exe;Risolve l'errore "CRC -2024 File di licenza non valido";VIALIBERA;DeepPink;Base
+CLMC;clmc.exe;Risolve l'errore "CRC -2024 File di licenza non valido";VIALIBERA;DeepPink;Guest
 ControlloLicenze;ControlloLicenze.exe;🚀 AGGIORNATO: Risolve l'errore "Operazione fallita XML_REGISTER LICENSE: -1003";VIALIBERA;DeepPink;Tech
 Pulizia Cloud;tempdel.bat;Cancella i file temporanei di Lybera Cloud;VL SUITE/CLOUD;Chocolate;Tech
 Cambia Risoluzione;1366x768.bat;Imposta la risoluzione dello schermo del Cloud (per Bomgar) su 1366 x 768 pixel;VL SUITE/CLOUD;Chocolate;Tech
@@ -8,10 +8,10 @@ Registra DT;DT.BAT;Corregge il percorso di DesktopTelematico nel registro di Win
 FWdsn;FWdsn.exe;Cambia il nome del SERVER e la versione di SQL Server Native Client all'interno dei file ".dsn" di FiscoWin;VIALIBERA;DeepPink;Tech
 SQL per Suite/Cloud;SuiteSQL.exe;Raccolta di script SQL per VL Suite/Cloud;VL SUITE/CLOUD;Chocolate;Tech
 WV2;WV2.exe;Sincronizza il runtime di WebView2 in TSS con la versione di Microsoft Edge installata;VIALIBERA;DeepPink;Guest
-enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;UTILITY;DodgerBlue;Tech
+enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;UTILITY;DodgerBlue;Guest
 VLSPOOLER50;VLSPOOLER50.BAT;VL Spooler 50;VIALIBERA;DeepPink;Tech
 msinfoFix;MsinfoFixApp.exe;Corregge i problemi di Microsoft System Information che impediscono la raccolta delle informazioni sul computer;UTILITY;DodgerBlue;Tech
 netUse;netuse.bat;Mappatura Unita di Rete TSSShare;VIALIBERA;DeepPink;Tech
-registrazioneControlli;RegistrazioneControlliOLE.exe;Consente di registrare i controlli OLE, come i controlli ActiveX e le librerie DLL, nel Registro di sistema di Windows;VIALIBERA;DeepPink;Tech
+registrazioneControlli;RegistrazioneControlliOLE.exe;Consente di registrare i controlli OLE, come i controlli ActiveX e le librerie DLL, nel Registro di sistema di Windows;VIALIBERA;DeepPink;Guest
 fixRTerror48;fixRTerror48.exe;Corregge l'errore "Run-time error 48" per ViaLibera Bilancio Europeo 25/26;VIALIBERA;DeepPink;Guest
 Abilita Script per IE;defaultInternetSettings.bat;⚠️ Abilita la visualizzazione e L'esecuzione degli elementi del cruscotto d'installazione quando non è possibile interagire con loro;⚠️ TEST INTERNO;DeepSkyBlue;Admin
