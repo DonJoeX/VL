@@ -4,7 +4,7 @@
     "descrizione": "Corregge i problemi di Microsoft System Information che impediscono\nla raccolta delle informazioni sul computer"
   },
   {
-    "url": "https://raw.githubusercontent.com/DonJoeX/VL/refs/heads/main/file/clmc.exe",
+    "url": "https://raw.githubusercontent.com/DonJoeX/VL/refs/heads/main/file/CLMC.exe",
     "descrizione": "Risolve l'errore CRC -2024 File di licenza non valido"
   }
 ]
