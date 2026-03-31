@@ -24,4 +24,3 @@ if not exist wmicore.exe goto End
 wmicore /s
 net start winmgmt
 :End
-%windir%\system32\msinfo32.exe
