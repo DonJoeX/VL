@@ -1,0 +1,13 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+    <Paragraph FontSize="20" FontWeight="Bold" Foreground="RoyalBlue">
+        Benvenuti nel nuovo sistema KB
+    </Paragraph>
+    <Paragraph>
+        Questo documento è stato caricato dinamicamente senza usare WebView2.
+    </Paragraph>
+    <Section Background="GhostWhite">
+        <Paragraph>
+            Puoi anche usare sezioni con sfondi diversi per evidenziare note importanti.
+        </Paragraph>
+    </Section>
+</FlowDocument>
