@@ -5,7 +5,7 @@
     <Paragraph>
         Questo documento è stato caricato dinamicamente senza usare WebView2.
     </Paragraph>
-    <Section Background="GhostWhite">
+    <Section Background="Red">
         <Paragraph>
             Puoi anche usare sezioni con sfondi diversi per evidenziare note importanti.
         </Paragraph>
