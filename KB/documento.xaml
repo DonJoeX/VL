@@ -1,21 +1,58 @@
-<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-    <Paragraph FontSize="20" FontWeight="Bold" Foreground="RoyalBlue">
-        Si è verificato un errore nella routine
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+              ColumnWidth="999999" IsOptimalParagraphEnabled="True" PagePadding="40">
+    
+    <Paragraph FontSize="28" FontWeight="Bold" Foreground="#2C3E50" Margin="0,0,0,20">
+        Database Errori Routine
     </Paragraph>
-    <Paragraph>
-        Codice=5 Invalid procedure call o argument: fòajkfòakaks
-    </Paragraph>
-    <Section Background="Red">
-        <Paragraph>
-            si verifica quando il documento non è in formato rtf. 
+
+    <Section Margin="0,10,0,10">
+        <Paragraph FontSize="18" FontWeight="Bold" Foreground="#C0392B">
+            Errore Codice: 5
         </Paragraph>
-    </Section>
-    <Paragraph>
-        Codice=6 Overflow: copia cartelle
-    </Paragraph>
-    <Section Background="Red">
-        <Paragraph>
-            si verifica quando i tag contenuti nei documenti non corrispondo a contenuto del database (possibile copia manuale delle cartelle delle società dall'anno precedente).
+        <Paragraph FontSize="16" FontWeight="SemiBold">
+            Invalid procedure call or argument
         </Paragraph>
+        <Paragraph FontStyle="Italic" Foreground="#566573">
+            Dettagli: fòajkfòakaks
+        </Paragraph>
+        <Section Background="#FDEDEC" Padding="15" BorderBrush="#F1948A" BorderThickness="1,0,0,0">
+            <Paragraph>
+                <Run FontWeight="Bold">Descrizione:</Run> Si è verificato un errore nella routine durante l'elaborazione del file.
+            </Paragraph>
+            <Paragraph Margin="0,5,0,0">
+                <Run FontWeight="Bold" Foreground="#C0392B">Causa principale:</Run> Il documento non è in formato <Run FontWeight="Bold">RTF</Run>. 
+                Il sistema non è in grado di decodificare il file se non è salvato come Rich Text Format.
+            </Paragraph>
+        </Section>
     </Section>
+
+    <Separator Margin="0,20,0,20"/>
+
+    <Section Margin="0,10,0,10">
+        <Paragraph FontSize="18" FontWeight="Bold" Foreground="#C0392B">
+            Errore Codice: 6
+        </Paragraph>
+        <Paragraph FontSize="16" FontWeight="SemiBold">
+            Overflow
+        </Paragraph>
+        <Paragraph FontStyle="Italic" Foreground="#566573">
+            Dettagli: copia cartelle
+        </Paragraph>
+        <Section Background="#FEF9E7" Padding="15" BorderBrush="#F4D03F" BorderThickness="1,0,0,0">
+            <Paragraph>
+                <Run FontWeight="Bold">Descrizione:</Run> Si è verificato un errore nella routine di gestione dei dati societari.
+            </Paragraph>
+            <Paragraph Margin="0,5,0,0">
+                <Run FontWeight="Bold" Foreground="#9A7D0A">Causa principale:</Run> I tag contenuti nei documenti non corrispondono al contenuto del database attuale.
+            </Paragraph>
+            <Paragraph Margin="0,5,0,0" Foreground="#7D6608">
+                <Run FontWeight="Bold">Soluzione:</Run> Verificare se è stata effettuata una copia manuale delle cartelle delle società dall'anno precedente senza aggiornare i riferimenti interni.
+            </Paragraph>
+        </Section>
+    </Section>
+
+    <Paragraph Margin="0,30,0,0" FontSize="12" Foreground="#ABB2B9" TextAlignment="Center">
+        Fine del registro errori - KB Viewer System
+    </Paragraph>
+
 </FlowDocument>
