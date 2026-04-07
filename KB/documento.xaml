@@ -1,13 +1,20 @@
 <FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
     <Paragraph FontSize="20" FontWeight="Bold" Foreground="RoyalBlue">
-        Benvenuti nel nuovo sistema KB
+        Si è verificato un errore nella routine
     </Paragraph>
     <Paragraph>
-        Questo documento è stato caricato dinamicamente senza usare WebView2.
+        Codice=5 Invalid procedure call o argument: fòajkfòakaks
     </Paragraph>
     <Section Background="Red">
         <Paragraph>
-            Puoi anche usare sezioni con sfondi diversi per evidenziare note importanti.
+            si verifica quando il documento non è in formato rtf. 
+        </Paragraph>
+    <Paragraph>
+        Codice=6 Overflow: copia cartelle
+    </Paragraph>
+    <Section Background="Red">
+        <Paragraph>
+            si verifica quando i tag contenuti nei documenti non corrispondo a contenuto del database (possibile copia manuale delle cartelle delle società dall'anno precedente).
         </Paragraph>
     </Section>
 </FlowDocument>
