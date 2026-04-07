@@ -14,6 +14,6 @@ netUse;netuse.bat;Mappatura Unita di Rete TSSShare;VIALIBERA;DeepPink;Tech
 registrazioneControlli;RegistrazioneControlliOLE.exe;Consente di registrare i controlli OLE, come i controlli ActiveX e le librerie DLL, nel Registro di sistema di Windows;VIALIBERA;DeepPink;Guest
 fixRTerror48;fixRTerror48.exe;Corregge l'errore "Run-time error 48" per ViaLibera Bilancio Europeo 25/26;VIALIBERA;DeepPink;Guest
 Esegui KPI_VLLY;KPIVLLY.exe;Questa utility configura Windows per rendere sicura l'unità 'TSSShare', eliminando i popup di avviso sui file eseguibili (.exe) lanciati da quel percorso;UTILITY;DodgerBlue;Guest
-Apri;KB.exe;guida;GUIDA;springgreen;Guest
+Apri;KB.exe;guida;GUIDA;MediumVioletRed;Guest
 Apri;GitHubDownloader.exe;Un elenco di strumenti che devono essere scaricati prima di poter essere eseguiti con privilegi di amministratore;UTILITY;DodgerBlue;Admin
 Abilita Script per IE;defaultInternetSettings.bat;⚠️ Abilita la visualizzazione e L'esecuzione degli elementi del cruscotto d'installazione quando non è possibile interagire con loro;⚠️ TEST INTERNO;DeepSkyBlue;Admin
