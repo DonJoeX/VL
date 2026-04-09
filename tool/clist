@@ -15,5 +15,6 @@ registrazioneControlli;RegistrazioneControlliOLE.exe;Consente di registrare i co
 fixRTerror48;fixRTerror48.exe;Corregge l'errore "Run-time error 48" per ViaLibera Bilancio Europeo 25/26;VIALIBERA;DeepPink;Guest
 Avvia;KPIVLLY.exe;Configura Windows per rendere sicura l'unità 'TSSShare', eliminando i popup di avviso sui file eseguibili lanciati da quel percorso (Es. KPI_VLLY.exe);UTILITY;DodgerBlue;Guest
 Leggi;KBruntime.exe;Guida rapida alla risoluzione degli errori di runtime più comuni;GUIDE;DeepSkyBlue;Guest
-Apri;GitHubDownloader.exe;Un elenco di strumenti che devono essere scaricati prima di poter essere eseguiti con privilegi di amministratore;UTILITY;DodgerBlue;Admin
+Apri;GitHubDownloader.exe;Un elenco di strumenti che devono essere scaricati prima di poter essere eseguiti con privilegi di amministratore;UTILITY;DodgerBlue;Tech
+Note;note.exe;NOTE;NOTE;Gold;Admin
 Abilita Script per IE;defaultInternetSettings.bat;⚠️ Abilita la visualizzazione e L'esecuzione degli elementi del cruscotto d'installazione quando non è possibile interagire con loro;⚠️ TEST INTERNO;DeepSkyBlue;Admin
