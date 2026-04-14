@@ -1,5 +1,5 @@
 System Manager;OSInfoApp.exe;🚀 AGGIORNATO: screening iniziale e log;VIALIBERA;Gold;Guest
-License Check;LicenseCheck.exe;✨ NOVITÀ: risolve gli errori di licenza -2007, -2024, -2025, -2026, lettura/scrittura memoria protetta lmc.dll;VIALIBERA;DeepPink;Guest
+License Check;LicenseCheck.exe;✨ NOVITÀ: risolve gli errori di licenza -1003, -2007, -2017, -2024, -2025, -2026, lettura/scrittura memoria protetta lmc.dll;VIALIBERA;DeepPink;Guest
 ControlloLicenze;ControlloLicenze.exe;OLD: Risolve l'errore "Operazione fallita XML_REGISTER LICENSE: -1003";VIALIBERA;DeepPink;Tech
 Pulizia Cloud;tempdel.bat;Cancella i file temporanei di Lybera Cloud;VL SUITE/CLOUD;DarkOrange;Tech
 Cambia Risoluzione;1366x768.bat;Imposta la risoluzione dello schermo del Cloud (per Bomgar) su 1366 x 768 pixel;VL SUITE/CLOUD;DarkOrange;Tech
