@@ -10,6 +10,7 @@ SQL per Suite/Cloud;SuiteSQL.exe;Raccolta di script SQL per VL Suite/Cloud;VL SU
 RDP Fix;lyberafix.bat;Disabilita la comparsa della finestra di avviso che appare quando un utente prova a connettersi tramite Remote Desktop (RDP);UTILITY;DodgerBlue;Guest
 WV2;WV2.exe;Corregge la PbD e sincronizza il runtime di WebView2 in TSS con la versione di Microsoft Edge installata;VIALIBERA;DeepPink;Guest
 enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;UTILITY;DodgerBlue;Guest
+eXBRL;eXBRL.exe;Analizza la presenza di errori nei documenti di Nota Integrativa per deposito XBRL di Bilancio;VIALIBERA;DeepPink;Tech
 VLSPOOLER50;VLSPOOLER50.BAT;VL Spooler 50;VIALIBERA;DeepPink;Tech
 netUse;netuse.bat;Mappatura Unita di Rete TSSShare;VIALIBERA;DeepPink;Tech
 registrazioneControlli;RegistrazioneControlliOLE.exe;Consente di registrare i controlli OLE, come i controlli ActiveX e le librerie DLL, nel Registro di sistema di Windows;VIALIBERA;DeepPink;Guest
