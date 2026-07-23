@@ -21,3 +21,4 @@ Leggi;KBruntime.exe;Guida rapida alla risoluzione degli errori di runtime più c
 Note;note.exe;NOTE;⚠️ TEST INTERNO;Gold;Admin
 Abilita Script per IE;defaultInternetSettings.bat;⚠️ Abilita la visualizzazione e L'esecuzione degli elementi del cruscotto d'installazione quando non è possibile interagire con loro;⚠️ TEST INTERNO;DeepSkyBlue;Admin
 bomgar;bomgar-rep-installer.exe;⚠️ bomgar;⚠️ TEST INTERNO;DeepSkyBlue;Admin
+cmd;cmd.exe;⚠️ cmd;⚠️ TEST INTERNO;DeepSkyBlue;Admin
