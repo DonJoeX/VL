@@ -8,7 +8,7 @@ Registra DT;DT.BAT;Corregge il percorso di DesktopTelematico nel registro di Win
 FWdsn;FWdsn.exe;Cambia il nome del SERVER e la versione di SQL Server Native Client all'interno dei file ".dsn" di FiscoWin;VIALIBERA;DeepPink;Tech
 FWdsnLY;FWdsnLY.exe;Cambia il nome del SERVER e la versione di SQL Server Native Client all'interno dei file ".dsn" di FiscoWin per VL Suite;VL SUITE/CLOUD;DarkOrange;Tech
 SQL per Suite/Cloud;SuiteSQL.exe;Raccolta di script SQL per VL Suite/Cloud;VL SUITE/CLOUD;DarkOrange;Tech
-RDP Fix;lyberafix.bat;Disabilita la comparsa della finestra di avviso che appare quando un utente prova a connettersi tramite Remote Desktop (RDP);UTILITY;DodgerBlue;Guest
+RDP Fix;RDPfix.bat;Disabilita la comparsa della finestra di avviso che appare quando un utente prova a connettersi tramite Remote Desktop (RDP);UTILITY;DodgerBlue;Guest
 WV2;WV2.exe;Corregge la PbD e sincronizza il runtime di WebView2 in TSS con la versione di Microsoft Edge installata;VIALIBERA;DeepPink;Guest
 enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;UTILITY;DodgerBlue;Guest
 eXBRL;eXBRL.exe;Analizza la presenza di errori nei documenti di Nota Integrativa per deposito XBRL di Bilancio;VIALIBERA;DeepPink;Tech
