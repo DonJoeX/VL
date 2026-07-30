@@ -2,8 +2,9 @@
 color 30
 powershell -command "Get-ChildItem 'C:\Windows\SystemTemp' -Recurse | Remove-Item -Force -Recurse -ErrorAction SilentlyContinue"
 powershell -command "Get-ChildItem 'C:\Windows\Temp' -Recurse | Remove-Item -Force -Recurse -ErrorAction SilentlyContinue"
-powershell -command "Get-ChildItem 'C:\Users\*\AppData\Local\CrashDumps' -Recurse | Remove-Item -Force"
 powershell -command "Get-ChildItem 'C:\Windows\System32\config\systemprofile\AppData\Local\CrashDumps' -Recurse | Remove-Item -Recurse -Force"
+powershell -command "Get-ChildItem 'C:\Users\*\AppData\Local\CrashDumps' -Recurse | Remove-Item -Force"
+powershell -command "Get-ChildItem 'C:\Users\*\Downloads\*.exe' -ErrorAction SilentlyContinue | Remove-Item -Force"
 
 del C:\TSVL\Studio24\VLBIL15\BACKUP /q
 del C:\TSVL\Studio24\VLBIL16\BACKUP /q
