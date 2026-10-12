@@ -7,7 +7,7 @@ echo ========================================================
 echo.
 
 echo Calcolo spazio iniziale...
-for /f "tokens=3" %%a in ('fsutil volume diskfree C: ^| findstr /i "libero totali"') do (
+for /f "tokens=3" %%a in ('fsutil volume diskfree C: ^| findstr /i "N. totale di byte liberi disponibili"') do (
     set "spazio_iniziale=%%a"
     goto :mostra_iniziale
 )
@@ -41,7 +41,7 @@ del C:\TSVL\Studio24Installazione\Studio24\DB\Base\Components\SSMS-Setup-ENU.exe
 del C:\TSVL\Studio24Installazione\Studio24\DB\Base\Components\SSMS-Setup-ITA.exe /q
 
 echo Calcolo spazio finale...
-for /f "tokens=3" %%a in ('fsutil volume diskfree C: ^| findstr /i "libero totali"') do (
+for /f "tokens=3" %%a in ('fsutil volume diskfree C: ^| findstr /i "N. totale di byte liberi disponibili"') do (
     set "spazio_finale=%%a"
     goto :mostra_finale
 )
