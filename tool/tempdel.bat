@@ -6,14 +6,7 @@ echo   ANALISI E PULIZIA SPAZIO DISCO (C:)
 echo ========================================================
 echo.
 
-echo Calcolo spazio iniziale...
-for /f "tokens=3" %%a in ('fsutil volume diskfree C: ^| findstr /i "N. totale di byte liberi disponibili"') do (
-    set "spazio_iniziale=%%a"
-    goto :mostra_iniziale
-)
-:mostra_iniziale
-echo    - Spazio libero iniziale: %spazio_iniziale% byte
-echo.
+for /f "delims=" %%a in ('powershell -NoProfile -Command "[math]::Round((Get-PSDrive C).Free / 1GB, 2)"') do set "spazio_iniziale=%%a"
 
 powershell -command "Get-ChildItem 'C:\Windows\SystemTemp' -Recurse | Remove-Item -Force -Recurse -ErrorAction SilentlyContinue"
 powershell -command "Get-ChildItem 'C:\Windows\Temp' -Recurse | Remove-Item -Force -Recurse -ErrorAction SilentlyContinue"
@@ -40,17 +33,13 @@ del C:\TSVL\Studio24Installazione\Studio24\DB\Base\Components\SQLEXPR_x64_ITA.ex
 del C:\TSVL\Studio24Installazione\Studio24\DB\Base\Components\SSMS-Setup-ENU.exe /q
 del C:\TSVL\Studio24Installazione\Studio24\DB\Base\Components\SSMS-Setup-ITA.exe /q
 
-echo Calcolo spazio finale...
-for /f "tokens=3" %%a in ('fsutil volume diskfree C: ^| findstr /i "N. totale di byte liberi disponibili"') do (
-    set "spazio_finale=%%a"
-    goto :mostra_finale
-)
-:mostra_finale
-echo    - Spazio libero finale:   %spazio_finale% byte
-echo.
+cls 
+
+for /f "delims=" %%a in ('powershell -NoProfile -Command "[math]::Round((Get-PSDrive C).Free / 1GB, 2)"') do set "spazio_finale=%%a"
 
 echo ========================================================
-echo   OPERAZIONE TERMINATA
+echo Spazio libero iniziale: %spazio_iniziale% GB
+echo Spazio libero finale: %spazio_finale% GB
 echo ========================================================
 
 timeout /t 10 /nobreak
