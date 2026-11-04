@@ -1,4 +1,10 @@
-@echo off
+@ECHO OFF
+color 30
+cls
+echo ======================================================
+echo    Reimpostazione layout Connessione Desktop Remoto
+echo ======================================================
+echo.
 
 net session >nul 2>&1
 if %errorLevel% neq 0 (
@@ -39,4 +45,5 @@ if %errorlevel% equ 0 (
 )
 
 echo.
-pause
+
+timeout /t 10 /nobreak
