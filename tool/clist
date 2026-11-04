@@ -8,13 +8,12 @@ Registra DT;DT.BAT;Corregge il percorso di DesktopTelematico nel registro di Win
 FWdsn;FWdsn.exe;Cambia il nome del SERVER e la versione di SQL Server Native Client all'interno dei file ".dsn" di FiscoWin;VIALIBERA;DeepPink;Tech
 FWdsnLY;FWdsnLY.exe;Cambia il nome del SERVER e la versione di SQL Server Native Client all'interno dei file ".dsn" di FiscoWin per VL Suite;VL SUITE/CLOUD;DarkOrange;Tech
 SQL per Suite/Cloud;SuiteSQL.exe;Raccolta di script SQL per VL Suite/Cloud;VL SUITE/CLOUD;DarkOrange;Tech
-RDP Fix;RDPfix.bat;Disabilita la comparsa della finestra di avviso che appare quando un utente prova a connettersi tramite Remote Desktop (RDP);UTILITY;DodgerBlue;Guest
+RDP per Windows 11;rdpWin11.bat;Questo script aggiunge la chiave di registro per ripristinare il comportamento dell'avviso RDP classico.;UTILITY;DodgerBlue;Guest
 WV2;WV2.exe;Corregge la PbD e sincronizza il runtime di WebView2 in TSS con la versione di Microsoft Edge installata;VIALIBERA;DeepPink;Guest
 enableLink;enableLinkedConnections.bat;Abilita la condivisione dei dischi o delle cartelle di rete;UTILITY;DodgerBlue;Guest
 eXBRL;eXBRL.exe;Analizza la presenza di errori nei documenti di Nota Integrativa per deposito XBRL di Bilancio;VIALIBERA;DeepPink;Tech
 VLSPOOLER50;VLSPOOLER50.BAT;Reinstalla la VLSPOOLER50 per ViaLibera, Suite e Cloud;VIALIBERA;DeepPink;Tech
 netUse;netuse.bat;Mappatura Unita di Rete TSSShare;VIALIBERA;DeepPink;Tech
-RDP per Windows 11;rdpWin11.bat;Questo script aggiunge la chiave di registro per ripristinare il comportamento dell'avviso RDP classico.;VIALIBERA;DeepPink;Tech
 registrazioneControlli;RegistrazioneControlliOLE.exe;Consente di registrare i controlli OLE, come i controlli ActiveX e le librerie DLL, nel Registro di sistema di Windows;VIALIBERA;DeepPink;Guest
 fixRTerror48;fixRTerror48.exe;Corregge l'errore "Run-time error 48" per ViaLibera Bilancio Europeo 25/26;VIALIBERA;DeepPink;Guest
 Avvia;KPIVLLY.exe;Configura Windows per rendere sicura l'unità 'TSSShare', eliminando i popup di avviso sui file eseguibili lanciati da quel percorso (Es. KPI_VLLY.exe);UTILITY;DodgerBlue;Guest
