@@ -26,9 +26,9 @@ reg add "HKLM\SOFTWARE\Microsoft\Terminal Server Client" /v ShowPublisherWarning
 reg add "HKCU\Software\Microsoft\Terminal Server Client" /v ShowPublisherWarning /t REG_DWORD /d 0 /f
 
 :: 6. 
-reg add "HKCU\\Software\\Microsoft\\Terminal Server Client\\LocalDevices" /v "vialyberabrk.cloud.teamsystem.com;vialyberagw.cloud.teamsystem.com" /t REG_DWORD /d 103 /f
-reg add "HKCU\\Software\\Microsoft\\Terminal Server Client\\Servers\\vialyberabrk.cloud.teamsystem.com" /v "CertHash" /f 2>nul
-reg add "HKCU\\Software\\Microsoft\\Terminal Server Client\\Servers\\vialyberagw.cloud.teamsystem.com" /v "CertHash" /f 2>nul
+reg add "HKCU\Software\Microsoft\Terminal Server Client\LocalDevices" /v "vialyberabrk.cloud.teamsystem.com;vialyberagw.cloud.teamsystem.com" /t REG_DWORD /d 103 /f
+reg add "HKCU\Software\Microsoft\Terminal Server Client\Servers\vialyberabrk.cloud.teamsystem.com" /v "CertHash" /f 2>nul
+reg add "HKCU\Software\Microsoft\Terminal Server Client\Servers\vialyberagw.cloud.teamsystem.com" /v "CertHash" /f 2>nul
 
 if %errorlevel% equ 0 (
     echo.
