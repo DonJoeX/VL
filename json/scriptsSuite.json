@@ -7,5 +7,5 @@
   "Elimina attività sospese di Studio": "DELETE FROM [studio24].[dbo].[AppuntamentiUtenti]; UPDATE [studio24].[dbo].[ModuliSoggetti] SET IDRilevamentoAttivita = NULL WHERE IDRilevamentoAttivita IS NOT NULL;",
   "Elimina pratiche aperte in Deleghe": "DELETE FROM [deg2020].[COMMON].[PraticheAperte]; DELETE FROM [deg2021].[COMMON].[PraticheAperte]; DELETE FROM [deg2022].[COMMON].[PraticheAperte]; DELETE FROM [deg2023].[COMMON].[PraticheAperte]; DELETE FROM [deg2024].[COMMON].[PraticheAperte]; DELETE FROM [deg2025].[COMMON].[PraticheAperte]; DELETE FROM [deg2026].[COMMON].[PraticheAperte];",
   "Elimina attività aperte in Versamenti": "DELETE FROM [S24_DFVLGTEL25_MAIN].[dbo].[tblTransactions] where id != 1"
-  "Elenco utenti": "SELECT TOP (100) [IDProfilo],[NomeVisualizzato],[Nome],[Cognome],[TSID],[Data] FROM [Studio24].[dbo].[Utenti]"
+  "Elenco utenti": "SELECT TOP (1000) [IDProfilo], [NomeVisualizzato], [Nome], [Cognome], [TSID], [Data] FROM [Studio24].[dbo].[Utenti]"
 }
